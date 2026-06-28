@@ -151,9 +151,4 @@ Google Gemini processes the compiled dataset and returns a formatted markdown do
 3. **Advanced RAG (Parent-Child Indexing)**: Store larger document chunks for Gemini's context window, but query smaller sub-chunks for vector matching, maximizing accuracy.
 4. **Interactive Dashboard Charts**: Extract financial tables from PDFs and display them as interactive charts (using recharts).
 
----
 
-## 7. Bonus: LLM Pair Programming Transcript
-
-This application was developed in cooperation with an AI Coding Assistant. The step-by-step transcript of the debugging sessions, DNS resolution fixes, and deployment logs is available here:
-* [LLM Chat Transcript](file:///c:/Users/pujit/Desktop/Inside_IIM%20Assignement/llm_chat_transcript.md)
