@@ -1,0 +1,5 @@
+{
+  "watch": ["controllers", "models", "routes", "services", "middleware", "server.js", ".env"],
+  "ext": "js,mjs",
+  "ignore": ["**/vector_store/**", "**/uploads/**", "**/node_modules/**", "*.json"]
+}
