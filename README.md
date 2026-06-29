@@ -36,7 +36,7 @@ InvestIQ is designed to automate the heavy lifting of financial analysis for inv
 3. Create a `.env` file in the `backend/` directory:
    ```env
    PORT=5000
-   MONGO_URI=mongodb+srv://pujithsathambakam_db_user:pujith2006@cluster0.2qraona.mongodb.net/investment-agent?retryWrites=true&w=majority&appName=Cluster0
+   MONGO_URI=mongodb+srv://<username>:<password>@your-cluster.mongodb.net/investment-agent?retryWrites=true&w=majority
    JWT_SECRET=supersecretjwtkeyforinvestmentagent123
    GEMINI_API_KEY=your_gemini_api_key_here
    TAVILY_API_KEY=your_tavily_api_key_optional
